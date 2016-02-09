@@ -2,7 +2,7 @@ body {
     font-family: Palatino;
 }
 
-.page-top {
+.page-head {
     background-color: #000066;
     color: white;
     /*position: fixed;*/
@@ -33,7 +33,7 @@ body {
     padding-bottom: 1em;
 }
 
-.menu-left {
+.nav-top {
     background-color: #f2f2f2;
     float: left;
     margin: 0;
@@ -60,12 +60,23 @@ body {
     background-color: #b3b3b3;
 }
 
+.side-bar {
+    background-color: #f2f2f2;
+    float: right;
+    margin: 0;
+    padding: 0;
+    margin-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
 .body {
-    border-style: solid;
-    border-color: black;
+    /*border-style: solid;*/
+    /*border-color: black;*/
     float: top;
     word-wrap: break-word;
     margin-left: 14%;
+    margin-right: 12em;
 }
 
 .footer {
