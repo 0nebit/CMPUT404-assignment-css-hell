@@ -1,2 +1,81 @@
-b {
+body {
+    font-family: Palatino;
+}
+
+.page-top {
+    background-color: #000066;
+    color: white;
+    /*position: fixed;*/
+    /*width: 100%;*/
+}
+
+#profile-img {
+    float: left;
+    padding: 1em;
+    height: 100%;
+}
+
+#general-info {
+    list-style-type: none;
+    margin-left: 10em;
+}
+
+#general-info h1 {
+    margin: 0;
+    padding-top: 0.4em;
+}
+
+#general-info ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+}
+
+.menu-left {
+    background-color: #f2f2f2;
+    float: left;
+    margin: 0;
+    padding: 0;
+    /*margin-top: 9em;*/
+}
+
+.menu-left ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-left li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 0.4em;
+    padding-left: 1em;
+    padding-right: 1.4em;
+}
+
+.menu-left a:hover {
+    background-color: #b3b3b3;
+}
+
+.body {
+    border-style: solid;
+    border-color: black;
+    float: top;
+    word-wrap: break-word;
+    margin-left: 14%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    clear: both;
+}
+
+.footer p {
+    padding: 0.7em;
+    margin: 0;
 }
