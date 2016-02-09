@@ -1,2 +1,136 @@
-b {
+body {
+    font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
+    margin: 0;
+    padding:0;
+}
+
+.page-head {
+    background-color: white;
+    position: fixed;
+    width: 60%;
+    margin: 0;
+    padding: 0;
+    margin-left: 10em;
+    margin-right: 10em;
+    background: linear-gradient(to right, yellow, red);
+}
+
+#beta {
+    position: absolute;
+    left: 30em;
+    top: 1.2em;
+    background-color: yellow;
+}
+
+#beta p {
+    font-size: 2em:
+    color: black;
+    padding: 0;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+}
+
+#profile-img {
+    float: left;
+    padding: 1em;
+    height: 100%;
+}
+
+#general-info {
+    list-style-type: none;
+    margin-left: 10em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: green;
+}
+
+#general-info h1 {
+    margin: 0;
+    padding-top: 0.4em;
+    font-size: 5em;
+    color: -moz-linear-gradient(to right, yellow, blue);
+}
+
+#general-info ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+}
+
+.nav-top {
+    background-color: #ffff00;
+    margin: 0;
+    padding: 0;
+    /*margin-top: 9em;*/
+    width: 100%;
+    padding-bottom: 2em;
+    box-shadow: 2px 2px;
+    margin-bottom: 1em;
+}
+
+.nav-top ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align: center;
+}
+
+.nav-top li {
+    float: left;
+}
+
+.nav-top li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    text-align: center;
+    padding: 0.4em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.nav-top a:hover {
+    background-color: green;
+}
+
+.side-bar {
+    background-color: #ffcc00;
+    float: right;
+    margin: 0;
+    padding: 0;
+    margin-top: 17em;
+    margin-right: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.side-bar p {
+    color: green;
+}
+
+.body {
+    /*border-style: solid;*/
+    /*border-color: black;*/
+    float: top;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    padding-top: 16em;
+    margin-top: 0;	
+    margin-left: 12em;
+    width: 55%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    clear: both;
+}
+
+.footer p {
+    padding: 0.7em;
+    margin: 0;
 }
