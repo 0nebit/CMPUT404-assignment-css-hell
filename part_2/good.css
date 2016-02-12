@@ -15,13 +15,19 @@ body {
 
 #profile-img {
     float: left;
+    margin: 1em;
     padding: 1em;
-    height: 100%;
+    border: 2px solid white;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png);
+    background-size: contain;
+    height: 2em;
+    width: 2em;
 }
 
 #general-info {
     list-style-type: none;
     margin-left: 10em;
+    margin-bottom: 1.4em;
 }
 
 #general-info h1 {
@@ -89,10 +95,10 @@ body {
     word-wrap: break-word;
     margin: 0;
     padding: 0;
-    margin-top: 8em;	
+    margin-top: 9em;	
     margin-left: 12em;
     margin-right: 0;
-    width: 60%;
+    width: 40%;
 }
 
 .footer {
