@@ -24,9 +24,9 @@ Code is licensed under the Apache 2.0 license.
 
 ## References
 - Chuan Chen
-  -http://www.w3schools.com/html/
-  -http://www.w3schools.com/css/
-  -http://www.cssfontstack.com/
-  -http://www.w3schools.com/colors/colors_picker.asp
-  -http://thesassway.com/advanced/modular-css-naming-conventions
-  -profile picture placeholder image: https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png
+  - http://www.w3schools.com/html/
+  - http://www.w3schools.com/css/
+  - http://www.cssfontstack.com/
+  - http://www.w3schools.com/colors/colors_picker.asp
+  - http://thesassway.com/advanced/modular-css-naming-conventions
+  - profile picture placeholder image: https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png
