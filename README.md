@@ -22,6 +22,19 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+## Part 1 Project Gutenberg HTML Modifications
+- changed some headers and p tags and table tags to the Palatino font
+- changed font characteristics and positioning of pre tag content
+- specific h1 and h2 changes, particularly font and positioning
+- body background colors and positioning
+- paragraph text indentation
+- img borders and size
+- table margins
+- table text positioning
+- book specific tags, i.e. .mynote and .figleft
+- link color
+- link hover color
+
 ## References
 - Chuan Chen
   - http://www.w3schools.com/html/
